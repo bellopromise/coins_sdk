@@ -38,9 +38,6 @@
 </div>
 
 
-<div align="center">
-  <sub>Built with ❤︎ by <a href="https://twitter.com/bahdcoder">Kati Frantz</a>
-</div>
 
 <br />
 <br />
