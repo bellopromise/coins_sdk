@@ -16,7 +16,7 @@ series [How to Contribute to an Open Source Project on GitHub][egghead]
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
-> git remote add upstream https://github.com/bahdcoder/buycoins-sdk.git
+> git remote add upstream https://github.com/bellopromise/coins_sdk.git
 > git fetch upstream
 > git branch --set-upstream-to=upstream/master master
 > ```
@@ -50,4 +50,4 @@ requests! Thanks!
 [egghead]:
   https://app.egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [all-contributors]: https://github.com/all-contributors/all-contributors
-[issues]: https://github.com/bahdcoder/buycoins-sdk/issues
+[issues]: https://github.com/bellopromise/coins_sdk/issues
